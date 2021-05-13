@@ -10,7 +10,7 @@ public class JavaProject1Application {
 		SpringApplication.run(JavaProject1Application.class, args);
 		
 		
-		System.out.println("hello jenkins");
+		System.out.println("hello jenkins build is here");
 	}
 
 }
